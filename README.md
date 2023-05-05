@@ -17,8 +17,8 @@ I am an aspiring Software Engineer who has completed a Software Engineering Skil
 <br />
 <br />
 <br />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=georgeophill&show_icons=true&theme=gotham" alt="georgeophill" />
+<br />
+<br />
+<br />
 #### ✉️ Reach me at [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/george-hill-web-developer/)!
-<br />
-<br />
-<br />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=georgeophill&show_icons=true&theme=gotham" alt="georgeophill" />
