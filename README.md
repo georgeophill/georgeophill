@@ -21,4 +21,5 @@ I am an aspiring Software Engineer who has completed a Software Engineering Skil
 <br />
 <br />
 <br />
-#### ✉️ Reach me at [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/george-hill-web-developer/)!
+
+ ✉️ Reach me at [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/george-hill-web-developer/)!
