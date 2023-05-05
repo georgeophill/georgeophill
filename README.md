@@ -21,4 +21,4 @@ I am an aspiring Software Engineer who has completed a Software Engineering Skil
 <br />
 <br />
 <br />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=georgeophill&show_icons=true&theme=gotham" alt="georgeophill" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=georgeophill&show_icons=true&theme=gotham" alt="georgeophill" />
