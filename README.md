@@ -1,6 +1,6 @@
 ## Hi, there! 🙋🏻‍♂️
 
-I am an aspiring Software Engineer who has completed a Software Engineering Skills Bootcamp at Le Wagon. I enjoy solving problems by creating solution using javaScript, and always looking forward to improve my skills 🚀! I am now a tach trainee at La Fosse Academy where I am deepening my passion for tech.
+I am an aspiring Software Engineer who has completed a Software Engineering Skills Bootcamp at Le Wagon. I enjoy solving problems by creating solutions mainly using javaScript, and always aiming to progress and improve my skills 🚀! I am now really enjoying my time as a tech trainee at La Fosse Academy where I am deepening my passion for tech!
 
 🖥️ Tech stack:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
