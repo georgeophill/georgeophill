@@ -1,6 +1,6 @@
 ## Hi, there! 🙋🏻‍♂️
 
-Aspiring Software Engineer who has completed a Software Engineering Bootcamp at Le Wagon. Enjoy solving problems, creating solutions particlularly enjoy using javaScript, always aiming to progress and improve my skills 🚀! Now working as a Business Analyst at ideaPoint, Anaqaua where I am deepening my passion for technological development!
+Enjoy solving problems, creating solutions particlularly enjoy using javaScript, always aiming to progress and improve my skills 🚀! Now working as a Business Analyst at ideaPoint, Anaqaua where I am deepening my passion for technological development!
 
 ### 🖥️ Tech stack:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
